@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "932018985621",
+    "project_id": "supplications-c681c",
+    "storage_bucket": "supplications-c681c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932018985621:android:5b3879399f204f53dc599c",
+        "android_client_info": {
+          "package_name": "com.supplications.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932018985621-dac17r32alioo1ojdl9b3borujl6ppq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKbE8F14_c5E2LzF8QhN6U1Ehun6o6us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932018985621-dac17r32alioo1ojdl9b3borujl6ppq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932018985621-pdt9vapjvl5lhgu9b1s86ve4van87tod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.supplications.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932018985621:android:f88a9bd62f9e4618dc599c",
+        "android_client_info": {
+          "package_name": "com.supplications_admin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932018985621-dac17r32alioo1ojdl9b3borujl6ppq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKbE8F14_c5E2LzF8QhN6U1Ehun6o6us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932018985621-dac17r32alioo1ojdl9b3borujl6ppq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932018985621-pdt9vapjvl5lhgu9b1s86ve4van87tod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.supplications.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
